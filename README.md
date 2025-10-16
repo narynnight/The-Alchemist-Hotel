@@ -1,1 +1,1 @@
-The Alchemist Web App
+The Alchemist Hotel Web App
